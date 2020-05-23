@@ -1,0 +1,21 @@
+.grid {
+	display: grid;
+	grid-template-columns: repeat(5, fr);
+}
+
+.margl {
+	margin-left: 500px;
+}
+
+.lgc {
+	background: linear-gradient(135deg,#02aab0,#00cdac);
+	-webkit-background-clip: text;
+  	-webkit-text-fill-color: transparent;
+}
+
+h1 {
+	font-family: Montserrat,sans-serif;
+	color: #272341;
+	font-size: 56px;
+	line-height: 30px;
+}
